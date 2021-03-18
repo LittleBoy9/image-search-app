@@ -1,0 +1,30 @@
+.App{
+    margin: 20px;
+}
+.search{
+    padding: 20px;
+    display: flex;
+    justify-content: center;
+    box-shadow: 3px 3px 10px #2b2b2b;
+}
+.searchbar{
+    width: 500px;
+    text-align: center;
+}
+.search_button{
+    height: 50px;
+    width: 100px
+}
+.inputclass{
+    width: 200px
+}
+.images{
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-around;
+    margin: 20px 0px;
+}
+.item{
+    width: 30%;
+    margin: 5px
+}
